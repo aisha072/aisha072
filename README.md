@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aisha Ghazi</h1>
-<h3 align="center">Welcome to my GitHub profile!I'm a passionate **Web Engineer** with expertise in building robust web applications and providing innovative solutions to complex problems.</h3>
+<h3 align="center">Welcome to my GitHub profile!I'm a passionate Web Engineer with expertise in building robust web applications and providing innovative solutions to complex problems.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/masai-course/aisha_ghazi_emp_072/commit/6df086522ee514dc31c9375308a0d20c8804809c](https://github.com/masai-course/aisha_ghazi_emp_072/commit/6df086522ee514dc31c9375308a0d20c8804809c)
 
