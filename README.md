@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **aishaghazi644@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RXqLm2_jL_Mklq940t4TUMQJqrtg2M1h/view?usp=sharing](https://drive.google.com/file/d/1RXqLm2_jL_Mklq940t4TUMQJqrtg2M1h/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1RXqLm2_jL_Mklq940t4TUMQJqrtg2M1h/view?usp=sharing](https://drive.google.com/file/d/1RXqLm2_jL_Mklq940t4TUMQJqrtg2M1h/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
