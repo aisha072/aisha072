@@ -11,8 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aisha-ghazi-708208317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aisha-ghazi-708208317/" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aisha-ghazi-708208317/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/932d7bb4-cfda-4803-bcc3-f119184b2401)
-" alt="https://www.linkedin.com/in/aisha-ghazi-708208317/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
